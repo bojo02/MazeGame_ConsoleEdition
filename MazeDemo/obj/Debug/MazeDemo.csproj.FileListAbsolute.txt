@@ -1,0 +1,7 @@
+C:\Users\Danger_boy21\source\repos\MazeDemo\MazeDemo\obj\Debug\MazeDemo.csprojAssemblyReference.cache
+C:\Users\Danger_boy21\source\repos\MazeDemo\MazeDemo\obj\Debug\MazeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Danger_boy21\source\repos\MazeDemo\MazeDemo\bin\Debug\MazeDemo.exe.config
+C:\Users\Danger_boy21\source\repos\MazeDemo\MazeDemo\bin\Debug\MazeDemo.exe
+C:\Users\Danger_boy21\source\repos\MazeDemo\MazeDemo\bin\Debug\MazeDemo.pdb
+C:\Users\Danger_boy21\source\repos\MazeDemo\MazeDemo\obj\Debug\MazeDemo.exe
+C:\Users\Danger_boy21\source\repos\MazeDemo\MazeDemo\obj\Debug\MazeDemo.pdb
